@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Donald F. Ferguson/Ansys Fellow; Adjunct Professor"
+title                    : "Donald F. Ferguson<br>Ansys Fellow<br>Adjunct Professor"
 title_separator          : "--"
 name                     : &name "Donald F. Ferguson"
 # description              : &description "personal description"
@@ -38,7 +38,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_WJChVsAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_WJChVsAAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
